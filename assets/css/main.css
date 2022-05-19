@@ -17,9 +17,40 @@ body {
     font-family: 'Poppins';
     text-align: justify;
     margin-top: 6%;
+    font-size: 200%;
+}
+
+.logo {
+    text-align: center;
 }
 
 .logo img {
     height: 200px;
     width: 400px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(186, 238, 127);
+}
+
+a:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.social {
+    border: 1px solid white;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 60, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+.social #a1 {
+    float: none;
+}
+
+.social #a2 {
+    float: right;
+    height: 10%;
+    width: 8%;
 }
