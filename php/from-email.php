@@ -8,7 +8,7 @@ $email_subject = "Yangi xabar";
 $email_body = "Ismi: $name.\n". 
                 "User email: $visitor_email.\n".
                     "user Message: $message.\n";
-$to = "kubernetesuz@mail.ru";
+$to = "kiberodam@yandex.ru";
 $headers = "from: $email_from \r\n";
 $headers .= "Reply-To: $visitor_email \r\n";
 mail($to,$email_subject,$email_body,$headers);
