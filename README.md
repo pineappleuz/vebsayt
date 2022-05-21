@@ -1,4 +1,6 @@
+<img src="./for_Readme/logo.png" height=200px  width=200px/>
 ### pineApple.uz
+
 ![image](./for_Readme/main.png)
 
 `pineApple.uz` uchun ishlab chiqilgan veb sayt front-end qismi.
